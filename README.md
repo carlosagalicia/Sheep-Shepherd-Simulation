@@ -64,3 +64,26 @@ pip install mesa matplotlib numpy pandas
 
 - Adjust simulation parameters in the notebook to explore different scenarios.
 - Run all cells in the notebook to start the simulation.
+
+## Visual Representation
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">Ungrouped Sheep (initial state)</h3>
+    <div align="center">
+      <img src="https://github.com/user-attachments/assets/58d51067-4112-4252-b9f9-623decd62690">
+    </div>
+  </td>
+</tr>
+</table>
+
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">Grouped Sheep (final state)</h3>
+    <div align="center">
+      <img src="https://github.com/user-attachments/assets/c39ba0b0-6c1a-471a-9147-f24fa0ecb051">
+    </div>
+  </td>
+</tr>
+</table>
